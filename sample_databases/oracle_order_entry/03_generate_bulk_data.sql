@@ -13,9 +13,9 @@
 --------------------------------------------------------------------------
 
 DECLARE
-    v_customer_count   NUMBER := 20000;   -- rows in CUSTOMERS
+    v_customer_count   NUMBER := 100000;   -- rows in CUSTOMERS 20000
     v_product_count    NUMBER := 2000;    -- rows in PRODUCTS
-    v_order_count      NUMBER := 200000;  -- rows in ORDERS
+    v_order_count      NUMBER := 2000000;  -- rows in ORDERS
     v_max_items        NUMBER := 5;       -- max line items per order
                                            -- (ORDER_ITEMS ends up roughly
                                            --  v_order_count * (v_max_items/2) rows)
@@ -50,6 +50,7 @@ BEGIN
 
     COMMIT;
     DBMS_OUTPUT.PUT_LINE('Customers inserted: ' || v_customer_count);
+--END;
 
     ----------------------------------------------------------------------
     -- PRODUCTS

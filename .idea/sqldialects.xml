@@ -9,6 +9,11 @@
     <file url="file://$PROJECT_DIR$/courses/course_ecommerce_project/04_insert_order.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/courses/course_ecommerce_project/05_insert_payment.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/courses/course_ecommerce_project/06_insert_return.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sample_databases/oracle_order_entry/01_create_schema.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sample_databases/oracle_order_entry/02_seed_reference_data.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sample_databases/oracle_order_entry/03_generate_bulk_data.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sample_databases/oracle_order_entry/04_verify_setup.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sample_databases/oracle_order_entry/05_drop_all.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/videos/214_joins/queries.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/videos/215_update/update.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/videos/218_flights/video_scripts.sql" dialect="MySQL" />
