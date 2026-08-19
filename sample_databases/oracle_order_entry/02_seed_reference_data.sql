@@ -29,12 +29,12 @@ INSERT INTO countries (country_id, country_name, region_id) VALUES ('CA', 'Canad
 -- ===================== PRODUCT CATEGORIES =====================
 
 INSERT INTO product_categories (category_id, category_name) VALUES (1, 'Electronics');
-INSERT INTO product_categories (category_id, category_name) VALUES (2, 'Home & Kitchen');
-INSERT INTO product_categories (category_id, category_name) VALUES (3, 'Sports & Outdoors');
+INSERT INTO product_categories (category_id, category_name) VALUES (2, 'Home and Kitchen');
+INSERT INTO product_categories (category_id, category_name) VALUES (3, 'Sports and Outdoors');
 INSERT INTO product_categories (category_id, category_name) VALUES (4, 'Office Supplies');
-INSERT INTO product_categories (category_id, category_name) VALUES (5, 'Toys & Games');
+INSERT INTO product_categories (category_id, category_name) VALUES (5, 'Toys and Games');
 INSERT INTO product_categories (category_id, category_name) VALUES (6, 'Clothing');
-INSERT INTO product_categories (category_id, category_name) VALUES (7, 'Health & Beauty');
+INSERT INTO product_categories (category_id, category_name) VALUES (7, 'Health and Beauty');
 INSERT INTO product_categories (category_id, category_name) VALUES (8, 'Books');
 
 -- ===================== WAREHOUSES =====================

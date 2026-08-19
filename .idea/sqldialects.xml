@@ -32,6 +32,10 @@
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Create sensor_readings table.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Insert Sensor Readings.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Select from sensor_readings.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/videos/340_saas_data/Video Queries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/videos/340_saas_data/sample_data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/videos/341_eav_normalised/Create EAV Tabkes.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/videos/341_eav_normalised/Create Normalised Tables.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../dbs_private/projects/flight/answers.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/217_imdb/create tables.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/217_imdb/drop_tables.sql" dialect="PostgreSQL" />
@@ -39,5 +43,6 @@
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/217_imdb/select.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/217_imdb/setup.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/289_chinook_analysis_1/289_scripts.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>

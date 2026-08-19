@@ -71,6 +71,8 @@ BEGIN
     COMMIT;
     DBMS_OUTPUT.PUT_LINE('Products inserted: ' || v_product_count);
 
+
+
     ----------------------------------------------------------------------
     -- ORDERS
     -- order_date spread over the last 2 years, status weighted so most

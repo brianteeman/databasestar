@@ -4,6 +4,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c941f98-58ce-44fc-bf04-54b4910ad568/console.sql" value="3c941f98-58ce-44fc-bf04-54b4910ad568" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c941f98-58ce-44fc-bf04-54b4910ad568/console_1.sql" value="3c941f98-58ce-44fc-bf04-54b4910ad568" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c941f98-58ce-44fc-bf04-54b4910ad568/console_2.sql" value="3c941f98-58ce-44fc-bf04-54b4910ad568" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_16.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_17.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_20.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
@@ -33,6 +34,9 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_44.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_45.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_46.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_47.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_48.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/efb5237a-a051-4e17-88ff-a01b98ec206f/console_49.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f6eba093-222e-4cc3-968e-76f37a9bfd29/console.sql" value="f6eba093-222e-4cc3-968e-76f37a9bfd29" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f6eba093-222e-4cc3-968e-76f37a9bfd29/console_1.sql" value="f6eba093-222e-4cc3-968e-76f37a9bfd29" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f6eba093-222e-4cc3-968e-76f37a9bfd29/console_2.sql" value="f6eba093-222e-4cc3-968e-76f37a9bfd29" />
@@ -59,6 +63,9 @@
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Create sensor_readings table.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Insert Sensor Readings.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$PROJECT_DIR$/videos/334_timescale/Select from sensor_readings.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$PROJECT_DIR$/videos/340_saas_data/sample_data.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$PROJECT_DIR$/videos/341_eav_normalised/Create EAV Tabkes.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
+    <file url="file://$PROJECT_DIR$/videos/341_eav_normalised/Create Normalised Tables.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
     <file url="file://$PROJECT_DIR$/../dbs_private/videos/289_chinook_analysis_1/289_scripts.sql" value="efb5237a-a051-4e17-88ff-a01b98ec206f" />
   </component>
 </project>
